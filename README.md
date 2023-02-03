@@ -17,7 +17,7 @@
 
 ## Sobre o curso 📚
 
-Neste curso, do instrutor [Thiago Santos](https://www.linkedin.com/in/thiago-gon%C3%A7alves-santos/), tive meu primeiro contato com os conceitos fundamentais de NLP (processamento de linguagem natural) para criar um corretor de palavras, parecido com o temos no smartphone e buscadores na internet.
+Neste curso, do instrutor [Thiago Santos](https://www.linkedin.com/in/thiago-gon%C3%A7alves-santos/), tive meu primeiro contato com os conceitos fundamentais de NLP (processamento de linguagem natural) para criar um corretor de palavras, parecido com o temos no smartphone e sites de pesquisa.
 
 
 
