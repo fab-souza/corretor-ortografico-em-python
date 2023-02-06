@@ -9,7 +9,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Corretor Ortográfico em Python**
 | :label: Tecnologias | python
-| :rocket: URL         | 
+| :rocket: URL         | [Notebook no Kaggle](https://www.kaggle.com/fabianadesouza/corretor-ortografico)
 | :fire: Desafio     | Conteúdo do curso [Corretor Ortográfico em Python](https://www.alura.com.br/curso-online-nlp-corretor-ortografico)
 
 ![](https://user-images.githubusercontent.com/67301805/215895439-4b0d4737-5b11-4ddc-9ac9-092a284b5e39.jpg#vitrinedev)
