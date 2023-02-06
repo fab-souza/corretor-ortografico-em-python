@@ -34,4 +34,5 @@ Neste curso, do instrutor [Thiago Santos](https://www.linkedin.com/in/thiago-gon
 
 ## Ferramentas utilizadas 🧰 
 <p> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+    <a href="https://www.nltk.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--G6tJrBaV--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/4rz47l767g96lws0m73g.png" alt="nltk" width="40" height="40"/> </a>
     </p>
