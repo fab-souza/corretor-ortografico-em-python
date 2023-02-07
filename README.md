@@ -21,6 +21,8 @@ Neste curso, do instrutor [Thiago Santos](https://www.linkedin.com/in/thiago-gon
 
 O foco do curso era criar um modelo capaz de corrigir os diversos tipos de erro de digitação, por exemplo além da palavra com ortografia incorreta, também pode ocorrer erro ao esbarrar acidentalmente na letra do lado, acabar trocando a ordem de algumas letras ou esquecer de digitar alguma. Para cada tipo de erro foi criado uma função que fatiava cada letra da palavra e efetuava a inserção, troca, inversão de ordem, delete de caracteres e, ao final, verificar se alguma das palavras geradas existiam no *corpus*, o banco de palavras composto por 18.464 palavras únicas.
 
+![image](https://user-images.githubusercontent.com/67301805/217243015-9fc286b6-6155-4074-b365-b7e212fd92a4.png)
+![image](https://user-images.githubusercontent.com/67301805/217243131-2dbac3df-2999-4c0e-ba90-f38584775650.png)
 
 
 
