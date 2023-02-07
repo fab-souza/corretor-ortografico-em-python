@@ -19,11 +19,12 @@
 
 Neste curso, do instrutor [Thiago Santos](https://www.linkedin.com/in/thiago-gon%C3%A7alves-santos/), tive meu primeiro contato com os conceitos fundamentais de NLP (processamento de linguagem natural) para criar um corretor de palavras, parecido com o temos no smartphone e sites de pesquisa.
 
-O foco do curso era criar um modelo capaz de corrigir os diversos tipos de erro de digitação, por exemplo além da palavra com ortografia incorreta, também pode ocorrer erro ao esbarrar acidentalmente na letra do lado, acabar trocando a ordem de algumas letras ou esquecer de digitar alguma. Para cada tipo de erro foi criado uma função que fatiava cada letra da palavra e efetuava a inserção, troca, inversão de ordem, delete de caracteres e, ao final, verificar se alguma das palavras geradas existiam no *corpus*, o banco de palavras composto por 18.464 palavras únicas.
+O foco do curso era criar um modelo capaz de corrigir os diversos tipos de erro de digitação, por exemplo além da palavra com ortografia incorreta, também pode ocorrer erro ao esbarrar acidentalmente na letra do lado, acabar trocando a ordem de algumas letras ou esquecer de digitar alguma. Para cada tipo de erro foi criado uma função que fatia cada letra da palavra e efetuava a inserção, troca, inversão de ordem, delete de caracteres e, ao final, verificar se alguma palavra gerada nas funções consta no *corpus*, a base de dados composta por 18.464 termos únicos.
 
 ![image](https://user-images.githubusercontent.com/67301805/217243015-9fc286b6-6155-4074-b365-b7e212fd92a4.png)
 ![image](https://user-images.githubusercontent.com/67301805/217243131-2dbac3df-2999-4c0e-ba90-f38584775650.png)
 
+E para verificar o desempenho do modelo, importamos mais um arquivo com 186 palavras, escrita da maneira correta e depois com algum erro. Uma nova função foi criada para ler a grafia incorreta, passar pelas funções de correção e comparar com a palavra escrita de maneira correta. Ao final do curso, chegamos a um modelo com 76,34% de taxa de acerto.
 
 
 ## Minha prática 👩🏻‍💻
