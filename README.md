@@ -33,6 +33,9 @@ Para minha base de dados, usei um dataset disponível no [Kaggle](https://www.ka
 
 ![image](https://user-images.githubusercontent.com/67301805/217310271-e3ea319d-908c-4ee9-ba29-30dd630a7951.png)
 
+## Conclusão 🏁
+
+Mesmo sendo algo recorrente no nosso cotidiano, eu nunca havia parado para pensar no que há por trás dos corretores ou como foram desenvolvidos. Este foi um dos projetos mais desafiadores, até o momento, e apesar da complexidade, eu gostei de conhecer um pouco mais sobre processamento de linguagem natural.
 
 
 
