@@ -31,6 +31,7 @@ E para verificar o desempenho do modelo, importamos mais um arquivo com 186 pala
 
 Para minha base de dados, usei um dataset disponível no [Kaggle](https://www.kaggle.com/), o [14 million word corpus](https://www.kaggle.com/datasets/luisgasparcordeiro/14-million-word-corpus-txt). Mesmo com essa quantidade absurda de palavras, meu modelo teve um desempenho menor do que o que foi desenvolvido no curso. Enquanto o modelo do instrutor foi avaliado com mais de 70% de acerto, o meu atingiu no máximo 64,54%.
 
+![image](https://user-images.githubusercontent.com/67301805/217310271-e3ea319d-908c-4ee9-ba29-30dd630a7951.png)
 
 
 
