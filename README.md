@@ -19,7 +19,7 @@
 
 Neste curso, do instrutor [Thiago Santos](https://www.linkedin.com/in/thiago-gon%C3%A7alves-santos/), tive meu primeiro contato com os conceitos fundamentais de NLP (processamento de linguagem natural) para criar um corretor de palavras, parecido com o temos no smartphone e sites de pesquisa.
 
-
+O foco do curso era criar um modelo capaz de corrigir os diversos tipos de erro de digitação, por exemplo além da palavra com ortografia incorreta, também pode ocorrer erro ao esbarrar acidentalmente na letra do lado, acabar trocando a ordem de algumas letras ou esquecer de digitar alguma. Para cada tipo de erro foi criado uma função que fatiava cada letra da palavra e efetuava a inserção, troca, inversão de ordem, delete de caracteres e, ao final, verificar se alguma das palavras geradas existiam no *corpus*, o banco de palavras composto por 18.464 palavras únicas.
 
 
 
