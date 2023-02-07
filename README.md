@@ -38,6 +38,7 @@ Para minha base de dados, usei um dataset disponível no [Kaggle](https://www.ka
 Mesmo sendo algo recorrente no nosso cotidiano, eu nunca havia parado para pensar no que há por trás dos corretores ou como foram desenvolvidos. Este foi um dos projetos mais desafiadores, até o momento, e apesar da complexidade, eu gostei de conhecer sobre processamento de linguagem natural e de ver outras áreas de aplicação para inteligência artificial.
 
 
+Muito obrigada por chegar até aqui e até a próxima 🤗
 
 
 ## Ferramentas utilizadas 🧰 
